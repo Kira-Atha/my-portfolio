@@ -13,7 +13,7 @@ module.exports = {
   // -- THEME SETTINGS -----
   colors: {
     lightTheme: {
-      primary: "#000000",
+      primary: "#000001",
       secondary: "#FFF4D9",
       tertiary: "#F2F2F2",
       text: "#000000",
@@ -59,7 +59,7 @@ module.exports = {
     },
     {
       name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      url: "https://konstantinmuenster.medium.com",
     },
     {
       name: "Github",
